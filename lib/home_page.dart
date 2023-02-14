@@ -106,7 +106,7 @@ class _HomePageState extends State<HomePage> {
               child: Text(
                 "Smart Devices",
                 style: GoogleFonts.prompt(
-                    fontSize: 20, fontWeight: FontWeight.w500),
+                    fontSize: 21, fontWeight: FontWeight.w500),
               ),
             ),
             const SizedBox(
